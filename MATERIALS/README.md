@@ -10,4 +10,4 @@ https://www.computer.org/publications/tech-news/community-voices/ethics-of-ai-im
 
 https://arxiv.org/html/2507.18640v1
 
-https://www.tensorflow.org/tutorials/images/cnn
+https://www.tensorflow.org/tutorials/images/classification
