@@ -24,4 +24,6 @@ The Reference Materials folder contains helpful resources related to AI-generate
 
 ## References:
 Dataset: Hugging Face — AI-Generated vs Real Images  
-https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets  
+https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets
+
+Image on Hook Document: C. Bush, "How to Spot AI-Generated Photos: Real vs. Fake," Charles Bush Photography, Nov. 3, 2025. [Online]. Available: https://charlesbushphoto.com/charles-bush-photography-news/2025/11/ai-generated-vs-real-photos.
