@@ -28,10 +28,4 @@ https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets
 
 Image on Hook Document: C. Bush, "How to Spot AI-Generated Photos: Real vs. Fake," Charles Bush Photography, Nov. 3, 2025. [Online]. Available: https://charlesbushphoto.com/charles-bush-photography-news/2025/11/ai-generated-vs-real-photos.
 
-C. Avey, "Ethical Pros and Cons of AI Image Generation," IEEE Computer Society, Dec. 27, 2023. [Online]. Available: https://www.computer.org/publications/tech-news/community-voices/ethics-of-ai-image-generation.
-
-Roca, Thomas. “How good are humans at detecting AI-generated images? Learnings from an experiment”. Arxiv, May 2025,
-https://arxiv.org/html/2507.18640v1#:~:text=Table%202%20shows%20the%20success,higher%20than%
-20flipping%20a%20coin.
-
 
