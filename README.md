@@ -20,4 +20,8 @@ pip install datasets
 ```
 
 ## Reference Materials
-The Reference Materials folder contains helpful resources related to AI-generated imagery, an introduction to Convolutional Neural Networks, and technical documentation to support your implementation. These are a starting point — you are encouraged to seek out additional sources as needed.
+The Reference Materials folder contains helpful resources related to AI-generated imagery, an introduction to Convolutional Neural Networks, and technical documentation to support your implementation. These are a starting point. You are encouraged to seek out additional sources as needed.
+
+## References:
+Dataset: Hugging Face — AI-Generated vs Real Images  
+https://huggingface.co/datasets/Hemg/AI-Generated-vs-Real-Images-Datasets  
